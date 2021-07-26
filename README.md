@@ -9,3 +9,10 @@ Gerador de partitura para caixa de música programável com papel perfurado. Des
 
 # Especificações do modelo da caixa de música
 Caixa de música de 15 notas, é o modelo mais comum vendido na internet.
+
+# Imagens
+- Edição da música
+  ![image](https://user-images.githubusercontent.com/73000207/127053733-e3a415f4-9aff-43b7-929c-4dc103658a4f.png)
+  
+- Geração da imagem final
+  ![image](https://user-images.githubusercontent.com/73000207/127053990-c15c8e76-ef1a-4760-93ae-bb07d5952bbb.png)
