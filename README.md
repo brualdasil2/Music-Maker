@@ -16,6 +16,7 @@ Caixa de música de 15 notas, é o modelo mais comum vendido na internet.
   ![image](https://user-images.githubusercontent.com/73000207/127053733-e3a415f4-9aff-43b7-929c-4dc103658a4f.png)
   
 - Copiar notas
+
   ![image](https://user-images.githubusercontent.com/73000207/127856107-4c4f23d8-7f09-48e5-a2ac-87a20a28865d.png)
   
 - Geração da imagem final
